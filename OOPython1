@@ -1,0 +1,16 @@
+from random import choice
+
+class Person:
+    def __init__(self,name):
+        self.name = name
+
+    def
+
+def main():
+    people  = [
+        dict{name = 'Jane'}
+
+    ]
+    person = choice(people)
+if __name__ == '__main__':
+    main()
